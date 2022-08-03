@@ -1,3 +1,4 @@
+# External API : [aa082e34e9119400a85eb3ab800a52c6-354579911.us-east-2.elb.amazonaws.com](aa082e34e9119400a85eb3ab800a52c6-354579911.us-east-2.elb.amazonaws.com)
 # Deploying a Flask API
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
